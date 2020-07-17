@@ -912,6 +912,8 @@ extern int zpool_nextboot(libzfs_handle_t *, uint64_t, uint64_t, const char *);
 
 #endif /* __FreeBSD__ */
 
+extern int zfs_get_hole_count(const char *, uint64_t *, uint64_t *);
+
 #ifdef	__cplusplus
 }
 #endif

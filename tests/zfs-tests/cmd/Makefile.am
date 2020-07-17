@@ -5,15 +5,18 @@ SUBDIRS = \
 	chg_usr_exec \
 	devname2devid \
 	dir_rd_update \
+	fiemap \
 	file_check \
 	file_trunc \
 	file_write \
+	getholes \
 	get_diff \
 	largest_file \
 	libzfs_input_check \
 	mkbusy \
 	mkfile \
 	mkfiles \
+	mkholes \
 	mktree \
 	mmap_exec \
 	mmap_libaio \

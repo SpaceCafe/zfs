@@ -25,6 +25,7 @@ SUBDIRS = \
 	fallocate \
 	fault \
 	features \
+	fiemap \
 	grow \
 	history \
 	hkdf \

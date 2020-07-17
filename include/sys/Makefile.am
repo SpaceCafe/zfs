@@ -42,6 +42,7 @@ COMMON_H = \
 	dsl_userhold.h \
 	edonr.h \
 	efi_partition.h \
+	fiemap.h \
 	frame.h \
 	hkdf.h \
 	metaslab.h \
